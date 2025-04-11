@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useEffect, useState } from "react";
-import { AppState, Keyword, Translation } from "../types/types";
+import { AppState, Keyword } from "../types/types";
 
 interface TranslationContextType {
   state: AppState;
