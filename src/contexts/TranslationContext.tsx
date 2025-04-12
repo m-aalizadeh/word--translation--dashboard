@@ -40,7 +40,7 @@ const initialState: AppState = {
     {
       id: "5",
       keyword: "Key",
-      translations: { english: "Key", فارسی: "", español: "Llave" },
+      translations: { english: "Key", فارسی: "کلید", español: "Llave" },
     },
     {
       id: "6",
@@ -55,7 +55,7 @@ const initialState: AppState = {
     {
       id: "8",
       keyword: "Food",
-      translations: { english: "Food", فارسی: "", español: "Comida" },
+      translations: { english: "Food", فارسی: "غذا", español: "Comida" },
     },
   ],
   languages: ["english", "فارسی", "español"],
